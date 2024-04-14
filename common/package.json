@@ -1,0 +1,9 @@
+{
+	"name": "@ketan-26/medium-common",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"dependencies": {
+		"zod": "^3.22.4"
+	}
+}
